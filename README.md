@@ -60,15 +60,15 @@ CollabNote is a collaborative notes platform designed to help you take, share, a
 
 ## 🚀 Deployment
 
-The app is deployed on Vercel for the frontend. You can access the live app at [CollabNote](https://collabnote-app.vercel.app/).
+The app is deployed on Vercel for the frontend. You can access the live app at [CollabNote](https://collab-note-fullstack-app.vercel.app/).
 
-Additionally, the backend API is deployed on Render. You can access the API documentation at [CollabNote API](https://collabnote-fullstack-app.onrender.com/).
+Additionally, the backend API is deployed on Render. You can access the API documentation at [CollabNote API](https://collab-note-fullstack-app.vercel.app/).
 
-The backup frontend is also hosted on Netlify, which you can access at [CollabNote Netlify](https://notesapp-nestjs.netlify.app/).
+The backup frontend is also hosted on Netlify, which you can access at [CollabNote Netlify](https://collab-note-fullstack-app.vercel.app/).
 
 > Note: The backend API may spin down due to inactivity. If you encounter any issues, please try again later. If inactive, the API may take a few seconds to start up, so frontend requests and Swagger may take some time to load initially.
 
-> Important: Supabase may pause the app's database if it exceeds the free tier limits. Thus, if you are unable to log in or register, [let me know](mailto:hoangson091104@gmail.com) and I will re-enable it (and it may take a while...)
+> Important: Supabase may pause the app's database if it exceeds the free tier limits. Thus, if you are unable to log in or register, [let me know](mailme:iakshu845@gmail.com) and I will re-enable it (and it may take a while...)
 
 ## 🎯 Tech Stack
 
@@ -324,7 +324,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/hoangsonww/CollabNote-Fullstack-App.git
+   git clone https://github.com/MeAkash77/CollabNote-Fullstack-App.git
    cd CollabNote-Fullstack-App
    ```
 
@@ -577,22 +577,4 @@ npm run test
 cd frontend
 npm run test
 ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
-## 🎉 Acknowledgments
-
-- **Son Nguyen**: Creator and maintainer of CollabNote.
-- **NestJS, Next.js, React, Vite**: The tech stack that powers this project.
-
----
-
 Thank you for visiting CollabNote today! **Happy notetaking!** 📝🚀
-
-[🔝 Back to Top](#collabnote---a-nestjs-nextjs-vite-and-supabase-fullstack-notetaking-app)
