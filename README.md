@@ -476,10 +476,6 @@ This guide enables you to view, test, and utilize the API.
 
 The CollabNote API also supports GraphQL for querying and manipulating data.
 
-To access, navigate to [https://collabnote-fullstack-app.onrender.com/graphql](https://collabnote-fullstack-app.onrender.com/graphql) and use the GraphQL Playground to interact with the API.
-
-Alternatively, you can start a local backend server following the steps above and access the GraphQL Playground at [http://localhost:4000/graphql](http://localhost:4000/graphql).
-
 You should see something like this:
 
 <p align="center">
